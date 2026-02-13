@@ -9,5 +9,3 @@ class Solution:
                 count[num] = i
             else: 
                 return [count[complement], i]
-     
-            
