@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0169-majority-element) |
+| [0722-remove-comments](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0722-remove-comments](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 <!---LeetCode Topics End-->
