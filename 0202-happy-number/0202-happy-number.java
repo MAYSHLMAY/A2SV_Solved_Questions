@@ -1,5 +1,3 @@
-import java.util.HashSet;
-
 class Solution {
 
     public int square_digits(int num) {
@@ -13,16 +11,15 @@ class Solution {
     }
     public boolean isHappy(int n) {
 
-        HashSet<Integer> patterns = new HashSet<>();
+        int slow = n;
+        int fast = n;
 
-        int next_num = n;
+        while (true) {
+        slow = square_digits(slow);
+        fast = square_digits(square_digits(fast));
 
-        while (!patterns.contains(next_num)) {
-            patterns.add(next_num);
-            next_num = square_digits(next_num);
-            if (next_num == 1) return true;
+        if (slow == 1 || fast == 1) return true;
+        if (slow == fast) return false; 
         } 
-
-        return false;
     }
 }
