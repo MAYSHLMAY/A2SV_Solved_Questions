@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -62,4 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
