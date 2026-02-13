@@ -5,12 +5,13 @@ class Solution:
 
         for cpdomain in cpdomains:
             count, subdomain = cpdomain.split(" ")
+            count = int(count)
 
             subdomain = subdomain.split(".")
             print(subdomain)
             for i in range(len(subdomain)):
                 temp = ".".join(subdomain[i:])
-                counts[temp] += int(count)
+                counts[temp] += count
         
         for keys, values in counts.items():
             final.append(str(values) + " " + keys)
