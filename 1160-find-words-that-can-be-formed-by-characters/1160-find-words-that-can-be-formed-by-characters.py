@@ -1,19 +1,24 @@
 class Solution:
     def countCharacters(self, words: List[str], chars: str) -> int:
-        counts = {}
+        
         final_sum = 0
+        char_count = defaultdict(int)
 
+        for char in chars:
+            char_count[char] += 1
+           
         for word in words:
+            word_count = defaultdict(int)
             for char in word:
-                counts[char] = counts.get(char, 0) + 1
-            
-            for char2 in chars:
-                if char2 in counts:
-                    counts[char2] -= 1
-            is_cancelled = all(val <= 0 for val in counts.values())
-            counts = {}
-            if is_cancelled:
-                final_sum += len(word)
+                word_count[char] += 1
+
+            flag = True
+            for i, j in word_count.items():
+                if (char_count[i] < j):
+                    flag = False
+                    break
+            if (flag): final_sum += len(word)
+
         return final_sum;
 
        
