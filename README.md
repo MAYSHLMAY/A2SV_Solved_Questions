@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0169-majority-element) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0169-majority-element) |
