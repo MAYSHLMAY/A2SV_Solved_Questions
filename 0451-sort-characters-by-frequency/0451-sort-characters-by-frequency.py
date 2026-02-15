@@ -9,5 +9,5 @@ class Solution:
         res = []
         for j in range(len(buckets) - 1, 0, -1):
                 for k in buckets[j]:
-                    res.append(k * j)
+                    res.extend([k] * j) 
         return "".join(res)
