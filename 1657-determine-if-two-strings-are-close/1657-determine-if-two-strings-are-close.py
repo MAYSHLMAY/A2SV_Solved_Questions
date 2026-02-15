@@ -1,5 +1,8 @@
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
+
+        if len(word1) != len(word2): return False
+
         set1 = set(word1)
         set2 = set(word2)
 
