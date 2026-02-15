@@ -2,7 +2,6 @@ class Solution:
     def findValidPair(self, s: str) -> str:
 
         counts = Counter(s)
-        print(counts)
         
         for i in range(len(s) - 1):
             if s[i] != s[i + 1]:
