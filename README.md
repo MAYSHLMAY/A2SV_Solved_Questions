@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [2007-find-original-array-from-doubled-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2007-find-original-array-from-doubled-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0811-subdomain-visit-count](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## String
 |  |
 | ------- |
@@ -70,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
@@ -112,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [2007-find-original-array-from-doubled-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
