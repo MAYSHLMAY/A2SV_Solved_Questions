@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
