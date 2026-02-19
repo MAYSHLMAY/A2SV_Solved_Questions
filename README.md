@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
