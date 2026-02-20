@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
