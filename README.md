@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
