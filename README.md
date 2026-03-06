@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 ## Greedy
 |  |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
