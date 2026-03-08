@@ -5,7 +5,6 @@ class Solution:
             n = int(input())
             a = list(map(int, input().split()))
             b = list(map(int, input().split()))
-            
             ops = []
             
             flag = False
@@ -32,3 +31,13 @@ class Solution:
 if __name__ == '__main__':
     sol = Solution()
     sol.solution()
+    
+
+"""
+    hello i am ready just send it
+    The code didn't work use gemini to solve this bro
+    skgnfknsfksfd
+    ksfnskfn
+    
+"""
+
