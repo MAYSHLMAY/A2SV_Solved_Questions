@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -272,8 +275,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
