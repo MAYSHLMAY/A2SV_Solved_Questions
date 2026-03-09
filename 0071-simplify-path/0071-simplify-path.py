@@ -15,5 +15,4 @@ class Solution:
             else:
                 stack.append(dirs)
         
-        if (not stack): return "/";
         return "/" + "/".join(stack)
