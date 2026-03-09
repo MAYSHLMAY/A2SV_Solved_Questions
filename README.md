@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
