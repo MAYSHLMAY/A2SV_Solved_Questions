@@ -8,8 +8,8 @@ class Solution:
 
         for dirs in path:
 
-            if dirs == "." or dirs == "":
-                continue
+            if dirs == ".": continue
+            if dirs == "": continue
             if dirs == "..":
                 if (stack): stack.pop()
             else:
