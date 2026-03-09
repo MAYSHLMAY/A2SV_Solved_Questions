@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2390-removing-stars-from-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Bit Manipulation
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2390-removing-stars-from-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [2390-removing-stars-from-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
