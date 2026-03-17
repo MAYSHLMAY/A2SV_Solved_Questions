@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -297,8 +299,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
