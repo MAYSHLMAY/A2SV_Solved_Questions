@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -317,14 +318,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
