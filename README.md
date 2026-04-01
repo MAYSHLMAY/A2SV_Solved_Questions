@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0969-pancake-sorting](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
