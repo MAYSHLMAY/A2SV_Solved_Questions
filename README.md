@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0463-island-perimeter](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0463-island-perimeter](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0463-island-perimeter](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0463-island-perimeter](https://github.com/MAYSHLMAY/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 ## Binary Search Tree
 |  |
 | ------- |
